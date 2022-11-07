@@ -7,8 +7,8 @@ this is designed to keep track of my observations and questions from the reading
 ---[^1]
 [^1]: Did not attend
 ## 301 - Intermediate 
--*Starting 11/7/22 ending 12/6/22*
--First introduction to React
+- *Starting 11/7/22 ending 12/6/22*
+- First introduction to React
 
 ## 401 - Advanced with focus on Python 
- -*Starting 12/19/2022 ending 2/24/2023*
+ - *Starting 12/19/2022 ending 2/24/2023*
