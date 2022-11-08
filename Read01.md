@@ -33,4 +33,4 @@
 - Unidirectional which means only one way, from parent to child 
 
 ## Things I want to know more about
-- If props can or should be stored as variables inside a component to make writing the code in the component a bit easier and aesethic  
+- If props can or should be stored as variables inside a component to make writing the code in the component a bit easier and aesthetic   
