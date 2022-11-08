@@ -1,5 +1,5 @@
 
-#React is important because it has become the standard for web dev 
+# React is important because it has become the standard for web dev 
 - components are essential for understanding react 
 
 ## What is a “component”?
