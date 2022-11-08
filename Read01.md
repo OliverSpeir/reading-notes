@@ -29,5 +29,5 @@
 ## How are props used in React?
 - Props are defined by the parent component then passed to a child component and finally are rendered by the child component 
 
-##What is the flow of props?
+## What is the flow of props?
 - Unidirectional which means only one way, from parent to child 
