@@ -37,10 +37,10 @@
 - "Using an array as arguments"
 
 ### Give an example of using the spread operator to combine two arrays.
-`const myArray = ['🤪','🐻','🎌']
-const yourArray = ['🙂','🤗','🤩']
-const ourArray = [...myArray,...yourArray]
-console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
+`const myArray = ['🤪','🐻','🎌']`
+`const yourArray = ['🙂','🤗','🤩']`
+`const ourArray = [...myArray,...yourArray]`
+`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
 
 ### Give an example of using the spread operator to add a new item to an array.
  `const fewFruit = ['🍏','🍊','🍌']`
