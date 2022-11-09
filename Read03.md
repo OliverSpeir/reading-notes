@@ -37,8 +37,8 @@ const listItems = numbers.map((number) =>
 - "Using an array as arguments"
 
 ### Give an example of using the spread operator to combine two arrays.
-`const myArray = [`🤪`,`🐻`,`🎌`]
-const yourArray = [`🙂`,`🤗`,`🤩`]
+`const myArray = ['🤪','🐻','🎌']
+const yourArray = ['🙂','🤗','🤩']
 const ourArray = [...myArray,...yourArray]
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
 
