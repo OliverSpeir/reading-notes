@@ -12,10 +12,10 @@
 ### If I want to loop through an array and display each value in JSX, how do I do that in React?
  - using curly brackets {}
  - example
- ` const numbers = [1, 2, 3, 4, 5];
-const listItems = numbers.map((number) =>
-  <li>{number}</li>
-); `
+ ` const numbers = [1, 2, 3, 4, 5];`
+`const listItems = numbers.map((number) =>`
+ ` <li>{number}</li>`
+`); `
 
 ### Each list item needs a unique ____.
 - key
@@ -43,15 +43,15 @@ const ourArray = [...myArray,...yourArray]
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
 
 ### Give an example of using the spread operator to add a new item to an array.
- `const fewFruit = ['🍏','🍊','🍌']
-const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
-console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]`
+ `const fewFruit = ['🍏','🍊','🍌']`
+`const fewMoreFruit = ['🍉', '🍍', ...fewFruit]`
+`console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]`
 
 ### Give an example of using the spread operator to combine two objects into one.
-`const objectOne = {hello: "🤪"}
-const objectTwo = {world: "🐻"}
-const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
-console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }`
+`const objectOne = {hello: "🤪"}`
+`const objectTwo = {world: "🐻"}`
+`const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}`
+`console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }`
 
 ## Passing functions between components as props 
 - https://www.youtube.com/watch?v=c05OL7XbwXU
