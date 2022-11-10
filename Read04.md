@@ -24,4 +24,4 @@
 `}`
 
 `ternary = x === y ? 'true' : 'false' ` </br>
-`console.log(ternary)'
+`console.log(ternary)`
