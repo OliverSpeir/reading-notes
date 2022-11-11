@@ -29,3 +29,7 @@
 - returns the (implied by the fact that it is 1 line) return of the arrow function  m => m > n 
 ### Explain how either map or reduce operates, with regards to higher-order functions.
 - "The map method transforms an array by applying a function to all of its elements and building a new array from the returned values. The new array will have the same length as the input array, but its content will have been mapped to a new form by the function."
+
+## Things I want to know more about
+- I'd like to dive deeper into the greaterthan(n) example from the text. I can follow it but I feel there's more to understand. 
+- In general functions being passed functions and returning functions could make more sense to me 
