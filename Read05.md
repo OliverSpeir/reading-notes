@@ -23,7 +23,7 @@
 ## Higher Order Functions
 - https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK
 - 
-###What is a “higher-order function”?
+### What is a “higher-order function”?
 - Functions that operate on other functions, either by taking them as arguments or by returning them
 ###Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 - returns the (implied by the fact that it is 1 line) return of the arrow function  m => m > n 
