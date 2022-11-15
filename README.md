@@ -14,5 +14,6 @@ this is designed to keep track of my observations and questions from the reading
 - [Read 04] (https://github.com/OliverSpeir/reading-notes/blob/main/Read04.md)
 - [Read 05] (https://github.com/OliverSpeir/reading-notes/blob/main/Read05.md)
 - [Read 06] (https://github.com/OliverSpeir/reading-notes/blob/main/Read06.md)
+- [Read 07] (https://github.com/OliverSpeir/reading-notes/blob/main/Read07.md)
 ## 401 - Advanced with focus on Python 
  - *Starting 12/19/2022 ending 2/24/2023*
