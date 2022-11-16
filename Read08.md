@@ -1,4 +1,6 @@
-# Rest is incredibly important and the current industry standard for good reason 
+# Rest best practices
+- https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
+- is incredibly important and the current industry standard for good reason
 - standardizes how websites communicate with eachother for making interoperatbility 
 ## What does REST stand for?
 - Representation State Transfer 
