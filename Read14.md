@@ -13,6 +13,6 @@
 ## When are diversity efforts most successful?
 - "Diversity efforts are most successful when they’re driven by a commitment from company leaders"
 ## Why do diverse companies perform better?
-- "diverse teams are smarter and more creative than homogeneous ones"
+- Users are better represented, employees benefit from improved environment and diversity of ideas
 ## Give an example of how a diverse company can serve a diverse user base or vise-versa.
 - Diversity within design team will improve chances that users needs are represented 
