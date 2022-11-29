@@ -17,13 +17,13 @@
 ## What does PATCH do?
 - Makes changes to part of the resource as opposed to put changing all of it 
 
-## Geocoding API
-- Got API
-## Weather Bit API
-- Got API
-## Did you get your API key?
-- Got API
-## Did you get your API key?
-- Got API
-## Did you get your API key?
-- Got API
+## Project related APIs
+- Geocoding API
+- https://locationiq.com/
+- Weather Bit API
+- https://www.weatherbit.io/
+- Yelp API 
+- https://www.yelp.com/developers/documentation/v3/business_search
+- The Movie DB API 
+- https://developers.themoviedb.org/3/getting-started/introduction
+
