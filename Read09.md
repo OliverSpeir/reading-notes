@@ -1,5 +1,6 @@
 # Functional Programming
-- This important paradigm is the counter part of object oriented programming, and has the advantage of not affecting everything 
+- [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 ## What is functional programming?
 - paradigm that uses pure functions 
