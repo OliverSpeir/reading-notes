@@ -1,5 +1,6 @@
 # CRUD 
-- Important because this is the database version of REST
+- [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+- Video [Build A REST API With Node.js, Express, & MongoDB - Quick](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 ## In your own words, describe what each group of status code represents:
 
 - 100’s = Information about the header part of the request
