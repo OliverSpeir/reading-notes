@@ -1,9 +1,9 @@
 # Putting it all together
-- Very important when learning a bunch of seperate pieces to connect them back
+- [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 - The whole is greater than the sum of its parts
 
 ## Thinking in React
-- https://reactjs.org/docs/thinking-in-react.html
 ### What is the single responsibility principle and how does it apply to components?
 - a component should ideally only do one thing
 ### What does it mean to build a ‘static’ version of your application?
@@ -21,8 +21,6 @@
 - If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
 ## Higher Order Functions
-- https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK
-- 
 ### What is a “higher-order function”?
 - Functions that operate on other functions, either by taking them as arguments or by returning them
 ###Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
