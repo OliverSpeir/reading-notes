@@ -40,12 +40,12 @@
 - `const myArray = ['🤪','🐻','🎌']` <br />
 - `const yourArray = ['🙂','🤗','🤩']` <br />
 - `const ourArray = [...myArray,...yourArray]` <br />
-- `console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
+- `console.log(...ourArray) // ['🤪','🐻','🎌','🙂','🤗','🤩']`
 
 ### Give an example of using the spread operator to add a new item to an array.
 - `const fewFruit = ['🍏','🍊','🍌']` <br />
-- `const fewMoreFruit = ['🍉', '🍍', ...fewFruit]` <br />
-- `console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]`
+- `const fewMoreFruit = ['🍉','🍍', ...fewFruit]` <br />
+- `console.log(fewMoreFruit) //  Array(5) ['🍉','🍍','🍏','🍊','🍌' ]`
 
 ### Give an example of using the spread operator to combine two objects into one.
 - `const objectOne = {hello: "🤪"}` <br />
