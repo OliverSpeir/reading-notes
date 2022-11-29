@@ -1,7 +1,8 @@
 # Rest best practices
-- https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
-- is incredibly important and the current industry standard for good reason
-- standardizes how websites communicate with eachother for making interoperatbility 
+- [API Design Best Practices Microsoft](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [RegExr CheatSheet](https://regexr.com/)
+- [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Regex101 Tool](https://regex101.com/)
 ## What does REST stand for?
 - Representation State Transfer 
 ## REST APIs are designed around a ____.
