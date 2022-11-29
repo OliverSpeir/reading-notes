@@ -32,20 +32,20 @@
 - Authentication is the process of proving your identity
 - Authorization is the process of allowing access to certain services based on that identity
 ## What is Authorization Code Flow?
-- <img src ="https://i.imgur.com/3TTPEIG.png" />
+<img src ="https://i.imgur.com/3TTPEIG.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
-- <img src = "https://i.imgur.com/c4mCUqk.png"/>
+<img src = "https://i.imgur.com/c4mCUqk.png"/>
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Implicit Flow with Form Post?
-- <img src ="https://i.imgur.com/tvW9uVm.png" />
+<img src ="https://i.imgur.com/tvW9uVm.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Client Credentials Flow?
-- <img src="https://i.imgur.com/E4Ak9rO.png" />
+<img src="https://i.imgur.com/E4Ak9rO.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Device Authorization Flow?
-- <img src ="https://i.imgur.com/vLExdtH.png" />
+<img src ="https://i.imgur.com/vLExdtH.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Resource Owner Password Flow?
-- <img src ="https://i.imgur.com/jHdFcKy.png" />
+<img src ="https://i.imgur.com/jHdFcKy.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
