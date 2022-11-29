@@ -7,8 +7,8 @@
 - Representation State Transfer 
 ## REST APIs are designed around a ____.
 - resources, or a representation of resources
-## What is an identifier of a resource? Give an example.
-- a URL, can be something like a https://example-business.com/orders/1 
+## What is an identifier of a resource? 
+- a URL
 ## What are the most common HTTP verbs?
 - GET POST PUT PATCH DELETE 
 ## What should the URIs be based on?
