@@ -1,5 +1,8 @@
 # MongoDB and Mongoose
-- Important database technology, and databases are at the core of modern technology. Data needs to be kept somewhere after all!
+- [NoSQL vs SQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+- Video [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+- [Mongoose API](https://mongoosejs.com/docs/api.html#Model)
+- [React Router](https://reactrouter.com/web/api/BrowserRouter)
 ## Fill in the chart below with five differences between SQL and NoSQL databases
 | sql | nosql |
 | --- | --- |
