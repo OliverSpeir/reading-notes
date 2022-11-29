@@ -1,7 +1,8 @@
 # React and Forms
-  - https://reactjs.org/docs/forms.html
-  - https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff
-  - Important because forms are essential and powerful aspect of all websites 
+  - [React Docs - Forms](https://reactjs.org/docs/forms.html)
+  - [The Conditional (Ternary) Operator Explained] (https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+  - [React Bootstrap Docs - Forms](https://react-bootstrap.github.io/forms/overview/)
+  - [React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
 
 ## What is a ‘Controlled Component’?
   - "An input form element whose value is controlled by React in this way is called a “controlled component” "
