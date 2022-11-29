@@ -1,4 +1,5 @@
 # CRUD 
+- [CRUD - definition and overview](https://www.sumologic.com/glossary/crud/#:~:text=with%20Sumo%20Logic-,What%20is%20CRUD%3F,%2C%20read%2C%20update%20and%20delete.)
 - [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 - Video [Build A REST API With Node.js, Express, & MongoDB - Quick](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 ## In your own words, describe what each group of status code represents:
