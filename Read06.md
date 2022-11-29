@@ -1,8 +1,9 @@
 # Node.js and Pair Programming
-- https://www.sitepoint.com/an-introduction-to-node-js/
-- https://www.codefellows.org/blog/6-reasons-for-pair-programming/
-- Two important topics due to their relevance in today's job market
-- Node is a powerful and very popular environment
+- [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN Docs async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 ## What is node.js?
 - Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
