@@ -38,7 +38,7 @@
 - <img src ="https://i.imgur.com/tvW9uVm.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Client Credentials Flow?
-- <img src="https://i.imgur.com/fnP74JM.png" />
+- <img src="https://i.imgur.com/E4Ak9rO.png" />
 - https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow
 ## What is Device Authorization Flow?
 - <img src ="https://i.imgur.com/vLExdtH.png" />
