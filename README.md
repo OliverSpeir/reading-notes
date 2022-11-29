@@ -20,4 +20,4 @@ This is designed to keep track of my observations and questions from the reading
 - [Read 14 - Diversity in Tech](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read14.md)
 - [Read 15 - OAuth](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read15.md)
 
-## 401 - focus on Python
+## 401 
