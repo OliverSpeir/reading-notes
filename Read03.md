@@ -1,10 +1,11 @@
 # Passing functions as props, lists and keys in react, and the spread operator in javascript
-- passing functions as props is useful because it increases component resuability 
-- lists and keys in react are key because react requires keys for lists of elements 
-- spread operator is useful for many circumstances and reduces amount of code needed for common tasks such as math and concatenation 
+- [React Docs -lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+- [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+- [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- Video [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 ## Lists and Keys
-- https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx
 
 ### What does .map() return?
 - a new array
@@ -25,7 +26,6 @@
 - "Keys should be given to the elements inside the array to give the elements a stable identity"
 
 ## Spread Operator
-- https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
 
 ### What is the spread operator?
 - "In JavaScript, spread syntax refers to the use of an ellipsis of three dots (…) to expand an iterable object into the list of arguments."
@@ -37,24 +37,23 @@
 - "Using an array as arguments"
 
 ### Give an example of using the spread operator to combine two arrays.
-`const myArray = ['🤪','🐻','🎌']` <br />
-`const yourArray = ['🙂','🤗','🤩']` <br />
-`const ourArray = [...myArray,...yourArray]` <br />
-`console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
+- `const myArray = ['🤪','🐻','🎌']` <br />
+- `const yourArray = ['🙂','🤗','🤩']` <br />
+- `const ourArray = [...myArray,...yourArray]` <br />
+- `console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩`
 
 ### Give an example of using the spread operator to add a new item to an array.
- `const fewFruit = ['🍏','🍊','🍌']` <br />
-`const fewMoreFruit = ['🍉', '🍍', ...fewFruit]` <br />
-`console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]`
+- `const fewFruit = ['🍏','🍊','🍌']` <br />
+- `const fewMoreFruit = ['🍉', '🍍', ...fewFruit]` <br />
+- `console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]`
 
 ### Give an example of using the spread operator to combine two objects into one.
-`const objectOne = {hello: "🤪"}` <br />
-`const objectTwo = {world: "🐻"}` <br />
-`const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}` <br />
-`console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }`
+- `const objectOne = {hello: "🤪"}` <br />
+- `const objectTwo = {world: "🐻"}` <br />
+- `const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}` <br />
+- `console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }`
 
 ## Passing functions between components as props 
-- https://www.youtube.com/watch?v=c05OL7XbwXU
 
 ### In the video, what is the first step that the developer does to pass functions between components?
 - Creates the function as a method of the component class
@@ -62,8 +61,8 @@
 - In this video the increment function is updating the count of clicks every time the button is clicked 
 ### How can you pass a method from a parent component into a child component?
 - Create a prop like this: 
-`passedMethod = {this.method}`
+- `passedMethod = {this.method}`
 ### How does the child component invoke a method that was passed to it from a parent component?
 - can be used anywhere in the child
-`this.props.method`
+- `this.props.method`
 
