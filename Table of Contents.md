@@ -1,6 +1,6 @@
 # READING NOTES
 
-- this is designed to keep track of my observations and questions from the reading assignments throughout the codefellows courses
+This is designed to keep track of my observations and questions from the reading assignments throughout the codefellows courses
 
 ## 301
 
