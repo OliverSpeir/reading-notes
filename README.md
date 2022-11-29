@@ -8,7 +8,7 @@ this is designed to keep track of my observations and questions from the reading
 - [Read 05 - React theory and Higher Order Functions](https://github.com/OliverSpeir/reading-notes/blob/main/Read05.md)
 - [Read 06 - NodeJS and Pair Programming](https://github.com/OliverSpeir/reading-notes/blob/main/Read06.md)
 - [Read 07 - REST basics](https://github.com/OliverSpeir/reading-notes/blob/main/Read07.md)
-- [Read 08 - REST best practices](https://github.com/OliverSpeir/reading-notes/blob/main/Read08.md)
+- [Read 08 - REST best practices and Regex](https://github.com/OliverSpeir/reading-notes/blob/main/Read08.md)
 - [Read 09 - Functional Programming](https://github.com/OliverSpeir/reading-notes/blob/main/Read08.md)
 - [Read 10 - Call stack and in memory storage](https://github.com/OliverSpeir/reading-notes/blob/main/Read10.md)
 - [Read 11 - MongoDB and Mongoose](https://github.com/OliverSpeir/reading-notes/blob/main/Read11.md)
