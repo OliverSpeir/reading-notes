@@ -1,5 +1,8 @@
 # Authentication
 - Critical concept for making a product that users can engage with safely 
+- [What is OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html)
+- [Authorization and Authentication flows auth0](https://auth0.com/docs/flows)
+- [Auth0 for single page apps from auth0](https://auth0.com/docs/libraries/auth0-react)
 ## What is OAuth?
 - "OAuth is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely
 -  allow authenticated access to their assets without actually sharing the initial, related, single logon credential"
