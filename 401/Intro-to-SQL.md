@@ -1,5 +1,6 @@
-# Learn SQL eBook
+# Learn SQL
 - [eBook PDF](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf?utm_referrer=https%3A%2F%2Flanding.chartio.com%2F)
+- [SQLBolt Exercises and Information] (https://sqlbolt.com/)
 
 ## Basics
 - `*` is called splat and is wildcard
@@ -22,7 +23,7 @@
 - condtions for search
 - SELECT * FROM tablename WHERE conditions
 - can use AND OR NOT with WHERE
-### Operators
+### PostgreSQL Operators 
 - =
 - <
 - >
@@ -142,3 +143,17 @@ list all tables and then list all indexes with additional technical information 
 - specific examples provided in eBook
 ### using ALTER in PostgreSQL
 - In SQL, tables, databases, schemas, groups, indexes, servers, and more can be modified using the ALTER command. This command enables the user to modify a specific aspect of the table, database, group, etc. while leaving the rest of the data untouched.
+
+## Screenshots from SQLBolt Exercises
+<img src ="https://i.imgur.com/Z3Uzgw5.png"/>
+<img src ="https://i.imgur.com/60cRtn6.png"/>
+<img src ="https://i.imgur.com/4jVq0G4.png"/>
+<img src ="https://i.imgur.com/iHTe3gZ.png"/>
+<img src ="https://i.imgur.com/7BXomOY.png"/>
+<img src ="https://i.imgur.com/Dy01aYE.png"/>
+<img src ="https://i.imgur.com/zm7q9Ar.png"/>
+<img src ="https://i.imgur.com/wvx1eZB.png"/>
+<img src ="https://i.imgur.com/ngUabHc.png"/>
+<img src ="https://i.imgur.com/ZaVPoQI.png"/>
+<img src ="https://i.imgur.com/Aa46V5j.png"/>
+<img src ="https://i.imgur.com/6hDMAtL.png"/>
