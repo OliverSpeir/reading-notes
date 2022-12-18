@@ -24,12 +24,12 @@
 - SELECT * FROM tablename WHERE conditions
 - can use AND OR NOT with WHERE
 ### PostgreSQL Operators 
-- =
-- <
-- >
-- <=
-- >=
-- != or <>
+- `=`
+- `<`
+- `>`
+- `<=`
+- `>=`
+- `!=` or `<>` 
 - LIKE ILIKE and SIMILIAR TO
 - like is case sensitive string match
 - ilike is insensetive
@@ -134,8 +134,9 @@ be combined.
 - Multiple meta commands can be used in one line. For example you could use \dt\di to
 list all tables and then list all indexes with additional technical information on the indexes
 ### Outputting query results to a file
-- ` \o [filename].txt
+- ` \o <br> [filename].txt
     [Query or Queries to write to file];
+    <br>
     \o `
 - output metacommand 
 ### Generate Random data in PostGreSQL
