@@ -21,3 +21,5 @@ This is designed to keep track of my observations and questions from the reading
 - [Read 15 - OAuth](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read15.md)
 
 ## 401 
+
+- [Command Line Tutorials](https://github.com/OliverSpeir/reading-notes/blob/main/401/Command-Line-Tutorials.md)
