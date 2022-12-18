@@ -71,7 +71,7 @@
 - `rm -r` is necessary for directories 
 - `rm -rf` to avoid having to accept every file 
 - Activity: 
-- <img src ="https://i.imgur.com/Nt5DFGP.png"/>
+- <img src ="https://i.imgur.com/e8Qsvpy.png"/>
 
 ## Cheat Sheet
 - [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
