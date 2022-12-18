@@ -1,6 +1,6 @@
 # Learn SQL
 - [eBook PDF](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf?utm_referrer=https%3A%2F%2Flanding.chartio.com%2F)
-- [SQLBolt Exercises and Information] (https://sqlbolt.com/)
+- [SQLBolt Exercises and Information](https://sqlbolt.com/)
 
 ## Basics
 - `*` is called splat and is wildcard
