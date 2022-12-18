@@ -134,10 +134,9 @@ be combined.
 - Multiple meta commands can be used in one line. For example you could use \dt\di to
 list all tables and then list all indexes with additional technical information on the indexes
 ### Outputting query results to a file
-- ` \o <br> [filename].txt
-    [Query or Queries to write to file];
-    <br>
-    \o `
+- ``` \o  [filename].txt
+    [Query or Queries to write to file]; 
+    \o ```
 - output metacommand 
 ### Generate Random data in PostGreSQL
 - random() function
