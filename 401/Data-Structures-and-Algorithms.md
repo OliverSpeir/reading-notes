@@ -10,7 +10,6 @@
 - [Why Big O](https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms)
 
 ## Discussion Questions
-- 
 ### What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 - How will the data be used and how will it need to be manipulated and how much data will there be? 
 
