@@ -13,10 +13,12 @@
 - This course will push you mentally, will require a your own approach, will require research, will tax emotionally, will require colloboration, will force being out of comfort zone, will have to deal with uncertainty of failure, will be pushed physcically to sit for hours a day, will tax sleep
 - Suffering is not the same as pain
 - Suffering is dependent on the story we layer on top of pain
-- ``` What’s your perspective?
+``` 
+What’s your perspective?
 Why are you doing this?
 Do you want what comes at the end of this journey?
-Are you doing this for you? ```
+Are you doing this for you?
+```
 - You’re in this class so that you can become not just a competent Python developer, but a spectacular craftsman of software with Python as your tool. The pain that you feel? Those are the callouses that you build while learning to use that tool.
 
 ## - [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
