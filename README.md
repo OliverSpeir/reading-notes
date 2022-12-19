@@ -26,3 +26,5 @@ This is designed to keep track of my observations and questions from the reading
 - [Intro to SQL](https://github.com/OliverSpeir/reading-notes/blob/main/401/Intro-to-SQL.md)
 - [Growth Mindset](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Growth-Mindset.md)
 - [Engineering Readings / Inspirational Content](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Engineering-Readings.md)
+- [Data Structures and Algorithms](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Data-Structures-and-Algorithms.md)
+- [Read 01](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read01.md)
