@@ -25,12 +25,14 @@ Are you doing this for you? ```
 - O(n) = algorithm that will execute in time that is directly proportional to size of data set
 - O(n^2) = executes directly proprtional to size of data set squared, usually result of nested iterations and further nesting results in O(n^3) and up
 - O(n^2) = execute time doubles with each addition to the input data set ex. recursive calculation of fibonacci numbers 
-- ``` int Fibonacci(int number)
+```
+int Fibonacci(int number)
 {
     if (number <= 1) return number;
        
     return Fibonacci(number - 2) + Fibonacci(number - 1); 
-} ```
+}
+```
 - **Logarithms** 
 - O(log n) = an input data set containing 10 items takes one second to complete, a data set containing 100 items takes two seconds, and a data set containing 1,000 items will take three seconds
 
