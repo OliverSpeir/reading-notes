@@ -24,3 +24,4 @@ This is designed to keep track of my observations and questions from the reading
 
 - [Command Line Tutorials](https://github.com/OliverSpeir/reading-notes/blob/main/401/Command-Line-Tutorials.md)
 - [Intro to SQL](https://github.com/OliverSpeir/reading-notes/blob/main/401/Intro-to-SQL.md)
+- [Growth Mindset](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Growth-Mindset.md)
