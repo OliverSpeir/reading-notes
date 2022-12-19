@@ -39,3 +39,28 @@ int Fibonacci(int number)
 - O(log n) = an input data set containing 10 items takes one second to complete, a data set containing 100 items takes two seconds, and a data set containing 1,000 items will take three seconds
 
 <img src= "https://i.imgur.com/tafUMAb.png" />
+
+## [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+- Works like other languages... until it doesn't
+- Mechanisms are simple but effects can be surprising
+- Names values assignment and mutability 
+- Names refer to values
+- Assignment makes the name refer to that value
+- `x = 23`
+- `y=x`
+- Y is now equal to 23, not x but the value that the name x refers to
+- `x=12`
+- y is still 23 and x is 12
+- Values are reassigned independently
+- Values are stored until there is no reference to it
+- Assignment never copies data
+- <img src="https://i.imgur.com/4wNZqnS.png" />
+- Mutable aliasing = mutable value with more than one name when the value changes all the names see the change
+- immutable values = ints floats strings tuples
+- <img src="https://i.imgur.com/37FUvWL.png"/>
+- changing a immutable value is really rebinding 
+- changing a mutable alias is mutating
+- <img src="https://i.imgur.com/5ortv8a.png"/>
+- <img src ="https://i.imgur.com/yF7GBBN.png"/>
+- <img src ="https://i.imgur.com/yF7GBBN.png"/>
+- 
