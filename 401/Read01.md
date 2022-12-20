@@ -6,6 +6,7 @@
 - [Awesome Python Environment](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
 - [Python Module of the Week](https://pymotw.com/3/index.html)
 - [Programming Pearls eBook](https://tfetimes.com/wp-content/uploads/2015/04/ProgrammingPearls2nd.pdf)
+- [Python Tutor Website](https://pythontutor.com)
 
 ## [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - 10 weeks for 2 years of content
@@ -63,4 +64,8 @@ int Fibonacci(int number)
 - <img src="https://i.imgur.com/5ortv8a.png"/>
 - <img src ="https://i.imgur.com/yF7GBBN.png"/>
 - <img src ="https://i.imgur.com/yF7GBBN.png"/>
-- 
+- any name can refer to any data type
+- names have no type but have scope
+- values have type but no scope
+- Making 2d lists:
+- <img src ="https://i.imgur.com/XRzABS4.png"/>
