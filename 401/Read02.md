@@ -11,6 +11,7 @@
 - [Google for Education: Python Lists](https://developers.google.com/edu/python/lists)
 - [Google for Education: Python Strings](https://developers.google.com/edu/python/strings)
 - [Python Modules and Packages](https://realpython.com/python-modules-packages/)
+- [Python Scripts, Modules and Packages](https://realpython.com/lessons/scripts-modules-packages-and-libraries/)
 - [Pytest Documentation](https://docs.pytest.org/en/latest/)
 - [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html)
 ---
