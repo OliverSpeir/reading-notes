@@ -4,7 +4,7 @@ This is designed to keep track of my observations and questions from the reading
 
 ## 301
 
-- [Read 01 - React](https://github.com/OliverSpeir/reading-notes/blob/main/Read01.md)
+- [Read 01 - React](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read01.md)
 - [Read 02 - State and Props](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read02.md)
 - [Read 03 - Passing functions as props and Spread operator](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read03.md)
 - [Read 04 - React Forms and Ternary operator](https://github.com/OliverSpeir/reading-notes/blob/main/301/Read04.md)
