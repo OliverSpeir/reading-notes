@@ -114,13 +114,13 @@ attach_head(1,                                                  # Will return [1
 <img src = "https://files.realpython.com/media/list.3df62a89243d.gif"/>
 
 - We apply a function to an argument, then pass that result on as an argument to a second application of the same function, and so on. Repeatedly composing attach_head with itself is the same as attach_head calling itself repeatedly.
-- 
 - Fibbonacci Example for Cacheing
-    - `Fn = Fn-1 + Fn-2`
-    - ` F0 = 0 and F1 = 1 ` = base case
+  - `Fn = Fn-1 + Fn-2`
+  - ` F0 = 0 and F1 = 1 ` = base case
 
 - no cache:
-```
+
+``` python
 >>> fibonacci_recursive(5)
 Calculating F(5), Calculating F(4), Calculating F(3), Calculating F(2), Calculating F(1), 
 Calculating F(0), Calculating F(1), Calculating F(2), Calculating F(1), Calculating F(0), 
