@@ -33,3 +33,4 @@ This is designed to keep track of my observations and questions from the reading
 - [Read 04](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read04.md)
 - [Linked List Notes](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/LinkedListNotes.md)
 - [Read05](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read05.md)
+- [Read06](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read06.md)
