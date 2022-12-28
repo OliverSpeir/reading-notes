@@ -35,4 +35,3 @@ This is designed to keep track of my observations and questions from the reading
 - [Read05](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read05.md)
 - [Read06](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read06.md)
 - [Read07](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read07.md)
-
