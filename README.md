@@ -36,3 +36,4 @@ This is designed to keep track of my observations and questions from the reading
 - [Read06](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read06.md)
 - [Read07](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read07.md)
 - [Read08](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read08.md)
+- [Stacks and Queues](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Stacks_and_Queues.md)
