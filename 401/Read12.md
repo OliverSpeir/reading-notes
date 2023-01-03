@@ -11,11 +11,11 @@
 
 ## [Pandas in 10](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
-- Article details examples of Object Creation such as:
+- [Object Creation](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#object-creation)
   - [Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html#pandas.Series)
   - [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame)
     - example features pandas built in [.date_range()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html#pandas.date_range) method
-- Article details examples of viewing data
+- [Viewing Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#viewing-data)
   - [DataFrame.head()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html#pandas.DataFrame.head) and [DataFrame.tail()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html#pandas.DataFrame.tail)
   -[.dtypes()]https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics-dtypes)
     - passed value is index
@@ -33,7 +33,7 @@
     - sorts by axis
   - [DataFrame.sort_values()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html#pandas.DataFrame.sort_values)
     - sorts by value
-- Selection
+- [Selection](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#selection)
   - DataFrame["column name"]
     - can also do DataFrame.column_name
   - Can [Select by Label](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#indexing-label)
@@ -48,12 +48,12 @@
     - condition
       - `df[df["A"] > 0]`
     - [ isin()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.isin.html#pandas.Series.isin)
-  - [Setting](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#setting)
+- [Setting](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#setting)
     - set by label
     - set by position
     - assigning with NumPy array
     - can set with condition
-  - [Missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#missing-data)
+- [Missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#missing-data)
     - np.nan to fill in missing
     - [DataFrame.dropna()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html#pandas.DataFrame.dropna)
       - drops missing data
@@ -65,7 +65,7 @@
       - shows data on new axis
     - Operating with different dimensionality and needs alignment
       - `s = pd.Series([1, 3, 5, np.nan, 6, 8], index=dates).shift(2)`
-  - [Apply](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#apply)
+- [Apply](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#apply)
     - [DataFrame.apply()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html#pandas.DataFrame.apply)
       - applies function
 - [Histogramming and Discretization](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html#basics-discretization)
