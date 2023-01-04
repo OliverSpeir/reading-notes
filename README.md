@@ -39,3 +39,5 @@ This is designed to keep track of my observations and questions from the reading
 - [Stacks and Queues](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Stacks_and_Queues.md)
 - [Read11](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read11.md)
 - [Read12](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read12.md)
+- [Read13](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read13.md)
+
