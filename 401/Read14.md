@@ -37,7 +37,7 @@
     - text plots ?
 - article shows types of point markers and line styles 
 
-### - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+### [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
  
 - library that adds onto matplotlib
 - makes for higher level more aesethetic graphs 
