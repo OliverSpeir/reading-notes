@@ -1,10 +1,7 @@
 # READING NOTES
 
-<font size="32">
-<div align="center"><details open><summary>401</summary>
+<details open><summary>401</summary>
 <br>
-</div>
-<font size = "18">
 
 
 - [Read14](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read14.md)
