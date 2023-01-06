@@ -3,7 +3,7 @@
 <details open><summary>401</summary>
 <br>
 
-
+- [Trees](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Trees.md)
 - [Read14](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read14.md)
 - [Read13](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read13.md)
 - [Read12](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read12.md)
