@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [ibm what is serverless?](https://www.ibm.com/cloud/learn/serverless)
+- [IBM what is serverless?](https://www.ibm.com/cloud/learn/serverless)
 - [python docs venv](https://docs.python.org/3/library/venv.html)
 - [Vercel - Get Started](https://vercel.com/docs/get-started)
 - [http.server](https://pymotw.com/3/http.server/index.html)
@@ -13,7 +13,7 @@
 - [effective Python Environment](https://realpython.com/effective-python-environment/)
 
 
-## [ibm what is serverless?](https://www.ibm.com/cloud/learn/serverless)
+## [IBM What Is Serverless?](https://www.ibm.com/cloud/learn/serverless)
 
 - Web Development without managing servers or a backend
 - Cloud based solution where idle capacity isn't paid for, resources 'scale to zero' when not in use
