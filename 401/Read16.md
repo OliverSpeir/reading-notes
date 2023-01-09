@@ -12,7 +12,6 @@
 - [Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 - [effective Python Environment](https://realpython.com/effective-python-environment/)
 
-
 ## [IBM What Is Serverless?](https://www.ibm.com/cloud/learn/serverless)
 
 - Web Development without managing servers or a backend
@@ -29,6 +28,6 @@
 
 - Serverless is great for data processing, stream processing, etc 
 
-## Vercel
+## [Vercel Getting Started](https://vercel.com/docs/concepts/get-started)
 
-- Cloud hosting taylored to sererless functions
+- Cloud hosting taylored to serverless functions

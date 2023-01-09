@@ -2,7 +2,7 @@
 
 <details open><summary>401</summary>
 <br>
-
+- [Data Science Resources](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/DataScienceLinks.md)
 - [Read16](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read16.md)
 - [Trees](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Trees.md)
 - [Read14](https://github.com/OliverSpeir/Reading-Notes/blob/main/401/Read14.md)
